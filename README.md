@@ -1,1 +1,2 @@
-# Bilgisayar-Programlama Ders Notlarını içerir.
+# Bilgisayar-Programlama Ders Notlarını içerir
+
